@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Uninstall DBDesigner4
+Exec=env WINEPREFIX="/home/chakib/.wine" wine C:\\\\users\\\\chakib\\\\AppData\\\\Roaming\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\fabFORCE\\\\Uninstall\\ DBDesigner4.lnk
+Type=Application
+StartupNotify=true
+Path=/home/chakib/.wine/dosdevices/c:/Program Files (x86)/Common Files/fabFORCE/
+Icon=E1B6_fabFORCE_Uninstaller.0
+StartupWMClass=fabforce_uninstaller.exe

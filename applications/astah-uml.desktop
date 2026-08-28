@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Astah UML
+Exec=astah-uml
+Icon=astah-uml
+Categories=Development;Education;
+Terminal=false
+StartupWMClass=sun-awt-X11-XFramePeer
+Hidden=true
+

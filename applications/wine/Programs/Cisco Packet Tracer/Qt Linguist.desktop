@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Qt Linguist
+Exec=env WINEPREFIX="/home/chakib/.wine" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Cisco\\ Packet\\ Tracer\\\\Qt\\ Linguist.lnk
+Type=Application
+StartupNotify=true
+Path=/home/chakib/.wine/dosdevices/c:/Program Files/Cisco Packet Tracer 7.3.0/languages
+Icon=9385_linguist.0
+StartupWMClass=linguist.exe

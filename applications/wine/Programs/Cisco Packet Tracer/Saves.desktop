@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Saves
+Exec=env WINEPREFIX="/home/chakib/.wine" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Cisco\\ Packet\\ Tracer\\\\Saves.lnk
+Type=Application
+StartupNotify=true
+Path=/home/chakib/.wine/dosdevices/c:/Program Files/Cisco Packet Tracer 7.3.0
+StartupWMClass=saves

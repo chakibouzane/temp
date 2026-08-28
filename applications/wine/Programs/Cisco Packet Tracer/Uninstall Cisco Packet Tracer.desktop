@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Uninstall Cisco Packet Tracer
+Exec=env WINEPREFIX="/home/chakib/.wine" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Cisco\\ Packet\\ Tracer\\\\Uninstall\\ Cisco\\ Packet\\ Tracer.lnk
+Type=Application
+StartupNotify=true
+Path=/home/chakib/.wine/dosdevices/c:/Program Files/Cisco Packet Tracer 7.3.0
+Icon=6EA6_unins000.0
+StartupWMClass=unins000.exe

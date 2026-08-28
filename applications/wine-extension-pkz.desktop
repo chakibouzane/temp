@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Packet Tracer Executable
+MimeType=application/x-wine-extension-pkz;
+Exec=env WINEPREFIX="/home/chakib/.wine" wine start /ProgIDOpen PacketTracer7.PKZ %f
+NoDisplay=true
+StartupNotify=true
+Icon=343E_PacketTracer7.0

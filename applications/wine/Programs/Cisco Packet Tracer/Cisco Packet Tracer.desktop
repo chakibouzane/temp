@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Cisco Packet Tracer
+Exec=env WINEPREFIX="/home/chakib/.wine" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Cisco\\ Packet\\ Tracer\\\\Cisco\\ Packet\\ Tracer.lnk
+Type=Application
+StartupNotify=true
+Path=/home/chakib/.wine/dosdevices/c:/Program Files/Cisco Packet Tracer 7.3.0/bin
+Icon=343E_PacketTracer7.0
+StartupWMClass=packettracer7.exe

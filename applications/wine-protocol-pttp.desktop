@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Packet Tracer Executable
+MimeType=x-scheme-handler/pttp;
+Exec=env WINEPREFIX="/home/chakib/.wine" wine start %u
+NoDisplay=true
+StartupNotify=true
+Icon=343E_PacketTracer7.0

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=DBDesigner 4
+Exec=env WINEPREFIX="/home/chakib/.wine" wine C:\\\\users\\\\chakib\\\\AppData\\\\Roaming\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\fabFORCE\\\\DBDesigner\\ 4.lnk
+Type=Application
+StartupNotify=true
+Path=/home/chakib/.wine/dosdevices/c:/Program Files (x86)/fabFORCE/
+Icon=3A57_DBDesigner4.0
+StartupWMClass=dbdesigner4.exe

@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Burp Suite Professional
+Exec="/home/chakib/BurpSuitePro/BurpSuitePro" %U
+MimeType=application/x-extension-burp;
+Icon=/home/chakib/BurpSuitePro/.install4j/BurpSuitePro.png
+Categories=Application;
+StartupWMClass=install4j-burp-StartBurp

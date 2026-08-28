@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Obsidian
+Comment=A knowledge base that works on local Markdown files.
+Exec=/home/chakib/Downloads/Obsidian-1.7.6.AppImage
+Icon=/home/chakib/Downloads/squashfs-root/obsidian.png
+Terminal=false
+Type=Application
+MimeType=x-scheme-handler/obsidian
+Categories=Utility;TextEditor;
+Path=
+StartupNotify=false
+

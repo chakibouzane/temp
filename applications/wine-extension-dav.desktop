@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Smart Player 
+MimeType=application/x-wine-extension-dav;
+Exec=env WINEPREFIX="/home/chakib/.wine" wine start /ProgIDOpen SmartPlayer.Files %f
+NoDisplay=true
+StartupNotify=true
+Icon=9AED_SmartPlayer.0
